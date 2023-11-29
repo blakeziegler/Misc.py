@@ -1,5 +1,9 @@
 # Object-Oriented-Programming
 
-This repository is designed to showcase OOP capabilities. Each file is named in the "BlakeZiegler_DataTopic_Tool/Language" format.
+This repository is designed to showcase OOP capabilities. Each file is named in the "BlakeZiegler_Object_Tool/Language" format.
 
 Demonstrated Techniques & Skills:
+
+BlakeZiegler_Dog_Python: Automated motion, object with multiple changing variables, loops in object programming, class in object programming, program termination, recursion.
+
+
