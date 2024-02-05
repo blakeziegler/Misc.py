@@ -6,4 +6,6 @@ Demonstrated Techniques & Skills:
 
 BlakeZiegler_Dog_Python: Automated motion, object with multiple changing variables, loops in object programming, class in object programming, program termination, recursion.
 
-BlakeZiegler_Dancer_Python: Ordered movement, loops, conditionals, classes and subclasses, recursion, and automatic program termination. 
+BlakeZiegler_Dancer_Python: Ordered movement, loops, conditionals, classes and subclasses, recursion, and automatic program termination.
+
+BlakeZiegler_TicTacToe_Python: Advanced OOP, creative problem solving, imbedded loops, classes and subclasses, loops, program termination. 
